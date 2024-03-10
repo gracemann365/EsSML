@@ -1,4 +1,4 @@
-# EsSML (Emotion Sentient System using Machine Learning)
+# EsSML (Emotionally Sentient System using Machine Learning)
 
 ---
 
